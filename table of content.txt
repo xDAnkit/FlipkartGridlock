@@ -1,0 +1,27 @@
+Services of buses with a frequency of 15 to 20 Min (No auto, No cabs, and No cars even not any other 4 wheller on corporate route in between 6 Am to 12 PM and 5 PM to 11 PM
+
+Buses tracking (With types and routes)
+
+Booking management
+ - General booking with counter
+ - General booking with mobile
+ - Corporate bookings
+ - Travellers passes
+
+Conductor and Driver App
+
+Instant Travel (for Railways and Airports)
+Ambulance request
+Traffic police alerts
+
+Vehicle tracking for industrial route (Vehicle whose location is in industrial area)
+
+Request Management
+Parking spot finder
+ -Free paking for Office timimg
+ -Parking management
+
+Smart Traffic signals
+odd/even right turn management
+Vechile request registration
+Support
